@@ -1,0 +1,17 @@
+PROJECT 3: CORRELATION HEATMAP & PAIRWISE RELATIONSHIPS
+============================================================
+
+1. PEARSON CORRELATION MATRIX:
+                 Marketing_Spend  Sales  Customer_Visits  Discount_Rate  Profit
+Marketing_Spend             1.00   0.98             0.98          -0.01    0.96
+Sales                       0.98   1.00             1.00          -0.03    0.98
+Customer_Visits             0.98   1.00             1.00          -0.02    0.98
+Discount_Rate              -0.01  -0.03            -0.02           1.00   -0.09
+Profit                      0.96   0.98             0.98          -0.09    1.00
+
+2. KEY RELATIONSHIPS SUMMARY:
+- Strongest Positive Relationship: Sales & Customer_Visits (r = 1.00), Marketing_Spend & Sales (r = 0.98), Sales & Profit (r = 0.98).
+- Strongest Negative Relationship: Discount_Rate & Profit (r = -0.09).
+
+3. INTERPRETATION:
+The correlation matrix reveals a strong positive linear dependency between Marketing Spend and Sales (r = 0.98), indicating that increased ad spend directly expands revenue. Sales and Profitability also move together very closely (r = 0.98). Conversely, Discount Rate shows a slight negative correlation with Profit (r = -0.09), highlighting that higher discounting slightly dampens profit margins.
