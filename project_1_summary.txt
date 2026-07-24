@@ -1,0 +1,13 @@
+==================================================
+PROJECT 1 SUMMARY & DISCUSSION
+==================================================
+
+1. KEY METRICS:
+- Total Annual Revenue: $999,464.00
+- Top Category: Electronics ($254,912.00)
+- Lowest Category: Home & Kitchen ($241,278.00)
+
+2. CHART SELECTION & FORMATTING DISCUSSION:
+- Line Charts: Selected for time series data to show continuous trend lines across months and quarters.
+- Bar Chart: Chosen to compare discrete category values directly, complete with top data labels.
+- Pie Chart: Used to highlight relative market share percentages per category relative to the whole.
