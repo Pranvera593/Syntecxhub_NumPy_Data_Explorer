@@ -1,0 +1,2 @@
+PROJECT 2 INTERPRETATION:
+Region A exhibits a right-skewed distribution (skewness = 1.72) with a median sales value of $362.30 and several high-value outliers exceeding $1,200 as detected in the boxplot. In contrast, Region B shows a symmetric, bell-shaped distribution (skewness = -0.03) centered around a median of $449.74 with lower overall spread and no extreme anomalies. Overall, Region B demonstrates predictable, consistent performance, whereas Region A has higher variance driven by infrequent large sales.
